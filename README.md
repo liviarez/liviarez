@@ -1,6 +1,7 @@
 ### Oi, eu sou a Lívia 👋🏻
 
 - 📌 4 anos no mercado de tecnologia através das vendas B2B/SaaS
+- 📊 Contadora
 - 💻 Estudando Python/SQL
 - 😄 Pronomes: Ela/Dela
 - 🧘🏻‍♀️🐶🎞️☕ Apaixonada por pilates, cachorros, doramas e café
